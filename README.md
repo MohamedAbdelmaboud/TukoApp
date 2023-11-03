@@ -1,7 +1,6 @@
 # talk
 
-A new Flutter project.
-
+This is an English Word Learning App designed to help users expand their vocabulary and improve their English language skills
 ## Getting Started
 
 This project is a starting point for a Flutter application.
